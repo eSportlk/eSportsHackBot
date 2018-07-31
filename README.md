@@ -1,0 +1,2 @@
+# eSportsHackBot
+Hacker Detecting Bot
