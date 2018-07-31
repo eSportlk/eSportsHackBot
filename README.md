@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # image-classification-tensorflow  
 A generic image classification program that uses Google's Machine Learning library, [Tensorflow](https://www.tensorflow.org/) and a pre-trained Deep Learning Convolutional Neural Network model called [Inception](https://research.googleblog.com/2016/03/train-your-own-image-classifier-with.html).
 
@@ -61,3 +62,7 @@ The classifier will output the predictions for each data set. A prediction score
 
 
 
+=======
+# eSportsHackBot
+Hacker Detecting Bot
+>>>>>>> d8b88b09cb728e2085472330665f18c9ea730581
