@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-# image-classification-tensorflow  
+# eSportsHackBot
+Hacker Detecting Bot
+
 A generic image classification program that uses Google's Machine Learning library, [Tensorflow](https://www.tensorflow.org/) and a pre-trained Deep Learning Convolutional Neural Network model called [Inception](https://research.googleblog.com/2016/03/train-your-own-image-classifier-with.html).
 
 This model has been pre-trained for the [ImageNet](http://image-net.org/) Large Visual Recognition Challenge using the data from 2012, and it can differentiate between 1,000 different classes, like Dalmatian, dishwasher etc.
@@ -60,9 +61,4 @@ Where ``image.jpg`` is the input file which is to be classified.
 
 The classifier will output the predictions for each data set. A prediction score between ``0.8`` to ``1`` is considered to be optimal.
 
-
-
 =======
-# eSportsHackBot
-Hacker Detecting Bot
->>>>>>> d8b88b09cb728e2085472330665f18c9ea730581
